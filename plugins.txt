@@ -1,0 +1,12 @@
+amazon-ecr:1.6
+amazon-ecs:1.11
+bitbucket:1.1.5
+docker-build-publish:1.3.2
+docker-workflow:1.13
+email-ext:2.60
+git:3.6.0
+gradle:1.28
+job-dsl:1.65
+promoted-builds:2.29.1
+slack:2.3
+terraform:1.0.9
